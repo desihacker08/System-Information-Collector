@@ -26,7 +26,7 @@ File save to **Excel** format. if you change the format then you code you can ch
 Update the `output` variable in the script to specify where you want the CSV file to be saved:
 
 ```batch
-set "output=E:\Programming\BashScript\add\system_info.csv"
+set "output=C:\Path\to\system_info.csv"
 ```
 ### Date and Time
 The script captures the current date and time in the format **YYYY-MM-DD HH:MM:SS**.
